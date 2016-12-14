@@ -27,3 +27,5 @@ Vendor/tvOS/Parse.framework
 Vendor/tvOS/Bolts.framework
 Vendor/tvOS/FBSDKCoreKit.framework
 Vendor/tvOS/FBSDKTVOSKit.framework
+
+Carthage/
