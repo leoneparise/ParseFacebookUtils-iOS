@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D2AAC07D0554694100DB518D"
-               BuildableName = "ParseFacebookUtilsV4.framework"
-               BlueprintName = "ParseFacebookUtilsV4-iOS"
+               BlueprintIdentifier = "B9EDA9341E02157C00E47536"
+               BuildableName = "ParseFacebookUtils.framework"
+               BlueprintName = "ParseFacebookUtils"
                ReferencedContainer = "container:ParseFacebookUtils.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -28,7 +28,26 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "B9EDA93D1E02157C00E47536"
+               BuildableName = "ParseFacebookUtilsTests.xctest"
+               BlueprintName = "ParseFacebookUtilsTests"
+               ReferencedContainer = "container:ParseFacebookUtils.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "B9EDA9341E02157C00E47536"
+            BuildableName = "ParseFacebookUtils.framework"
+            BlueprintName = "ParseFacebookUtils"
+            ReferencedContainer = "container:ParseFacebookUtils.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -45,9 +64,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D2AAC07D0554694100DB518D"
-            BuildableName = "ParseFacebookUtilsV4.framework"
-            BlueprintName = "ParseFacebookUtilsV4-iOS"
+            BlueprintIdentifier = "B9EDA9341E02157C00E47536"
+            BuildableName = "ParseFacebookUtils.framework"
+            BlueprintName = "ParseFacebookUtils"
             ReferencedContainer = "container:ParseFacebookUtils.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -63,9 +82,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D2AAC07D0554694100DB518D"
-            BuildableName = "ParseFacebookUtilsV4.framework"
-            BlueprintName = "ParseFacebookUtilsV4-iOS"
+            BlueprintIdentifier = "B9EDA9341E02157C00E47536"
+            BuildableName = "ParseFacebookUtils.framework"
+            BlueprintName = "ParseFacebookUtils"
             ReferencedContainer = "container:ParseFacebookUtils.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
